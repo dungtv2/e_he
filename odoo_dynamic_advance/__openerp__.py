@@ -8,6 +8,7 @@
     """,
     'author': "Hanel Software Solution",
     'website': 'http://www.hanelsoft.vn/',
+    'images': ['images/1.jpg'],
     'depends': ['web'],
     'data': ['templates.xml',
              'security/show_fields_security.xml',
@@ -18,9 +19,4 @@
     'auto_install': False,
     'application': False,
     'qweb': ['static/src/xml/listview_button_view.xml'],
-    'images': [
-        'static/description/1.jpg',
-        'static/description/2.jpg',
-        'static/description/3.jpg',
-    ],
 }
