@@ -40,15 +40,15 @@
                                  </div>
                             </td>
                         </tr>
-                        <!--<tr>-->
-                            <!--<td>-->
-                                <!--<h3>Fix Header</h3>-->
-                                <!--<div class="checkbox check-primary">-->
-                                    <!--<input type="checkbox" value="true" id="fix_header_list_view" />-->
-                                    <!--<label for="fix_header_list_view">Fix Header</label>-->
-                                <!--</div>-->
-                            <!--</td>-->
-                        <!--</tr>-->
+                        <tr>
+                            <td>
+                                <h3>Color ListView</h3>
+                                <div class="checkbox check-primary">
+                                    <input type="checkbox" value="true" id="color_list_view" />
+                                    <label for="color_list_view">Use</label>
+                                </div>
+                            </td>
+                        </tr>
                     </tbody>
                     <tfoot>
                         <tr>

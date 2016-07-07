@@ -23,7 +23,7 @@ class ShowFieldS(models.Model):
     color_for_list = fields.Boolean(string="Use Color/bgcolor for listview")
     fields_string = fields.Char(string="Fields String")
     # background_color = fields.Char(string="Background Color of ListView")
-    # color_list_view = fields.Char(string="Color of ListView")
+    color_list_view = fields.Char(string="Color of ListView")
 
     @api.model
     def action(self, vals, action):
